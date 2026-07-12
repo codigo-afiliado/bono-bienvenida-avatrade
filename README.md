@@ -1,28 +1,28 @@
 <!--
-   ██████╗  ██████╗ ███╗   ██╗ ██████╗         ██████╗ ██╗   ██╗███████╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗██╗                              
-   ██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗        ██╔══██╗██║   ██║██╔════╝████╗  ██║██║   ██║██╔════╝████╗  ██║██║                              
-   ██████╔╝██║   ██║██╔██╗ ██║██║   ██║        ██████╔╝██║   ██║█████╗  ██╔██╗ ██║██║   ██║█████╗  ██╔██╗ ██║██║                              
-   ██╔══██╗██║   ██║██║╚██╗██║██║   ██║        ██╔══██╗╚██╗ ██╔╝██╔══╝  ██║╚██╗██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║                              
-   ██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝        ██████╔╝ ╚████╔╝ ███████╗██║ ╚████║ ╚████╔╝ ███████╗██║ ╚████║███████╗                         
-   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝         ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚══════╝                         
+ ██████╗ ██████╗ ███╗ ██╗ ██████╗ ██████╗ ██╗ ██╗███████╗███╗ ██╗██╗ ██╗███████╗███╗ ██╗██╗ 
+ ██╔══██╗██╔═══██╗████╗ ██║██╔═══██╗ ██╔══██╗██║ ██║██╔════╝████╗ ██║██║ ██║██╔════╝████╗ ██║██║ 
+ ██████╔╝██║ ██║██╔██╗ ██║██║ ██║ ██████╔╝██║ ██║█████╗ ██╔██╗ ██║██║ ██║█████╗ ██╔██╗ ██║██║ 
+ ██╔══██╗██║ ██║██║╚██╗██║██║ ██║ ██╔══██╗╚██╗ ██╔╝██╔══╝ ██║╚██╗██║╚██╗ ██╔╝██╔══╝ ██║╚██╗██║██║ 
+ ██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝ ██████╔╝ ╚████╔╝ ███████╗██║ ╚████║ ╚████╔╝ ███████╗██║ ╚████║███████╗ 
+ ╚═════╝ ╚═════╝ ╚═╝ ╚═══╝ ╚═════╝ ╚═════╝ ╚═══╝ ╚══════╝╚═╝ ╚═══╝ ╚═══╝ ╚══════╝╚═╝ ╚═══╝╚══════╝ 
 
-    █████╗ ██╗   ██╗ █████╗ ████████╗██████╗  █████╗ ██████╗ ███████╗         ██╗  ██╗██████╗  ██████╗ 
-   ██╔══██╗██║   ██║██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝         ██║  ██║╚════██╗██╔═████╗
-   ███████║██║   ██║███████║   ██║   ██████╔╝███████║██║  ██║█████╗           ███████║ █████╔╝██║██╔██║
-   ██╔══██║╚██╗ ██╔╝██╔══██║   ██║   ██╔══██╗██╔══██║██║  ██║██╔══╝           ██╔══██║ ╚═══██╗████╔╝██║
-   ██║  ██║ ╚████╔╝ ██║  ██║   ██║   ██║  ██║██║  ██║██████╔╝███████╗         ██║  ██║██████╔╝╚██████╔╝
-   ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝         ╚═╝  ╚═╝╚═════╝  ╚═════╝ 
+ █████╗ ██╗ ██╗ █████╗ ████████╗██████╗ █████╗ ██████╗ ███████╗ ██╗ ██╗██████╗ ██████╗ 
+ ██╔══██╗██║ ██║██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██║ ██║╚════██╗██╔═████╗
+ ███████║██║ ██║███████║ ██║ ██████╔╝███████║██║ ██║█████╗ ███████║ █████╔╝██║██╔██║
+ ██╔══██║╚██╗ ██╔╝██╔══██║ ██║ ██╔══██╗██╔══██║██║ ██║██╔══╝ ██╔══██║ ╚═══██╗████╔╝██║
+ ██║ ██║ ╚████╔╝ ██║ ██║ ██║ ██║ ██║██║ ██║██████╔╝███████╗ ██║ ██║██████╔╝╚██████╔╝
+ ╚═╝ ╚═╝ ╚═══╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═════╝ ╚══════╝ ╚═╝ ╚═╝╚═════╝ ╚═════╝ 
 -->
 
-# 🎯 Bono de Bienvenida AvaTrade — Código 128979
+# 🎯 Bono de Bienvenida AvaTrade , Código 128979
 
 > **Código verificadom con depósitos reales.** Probé el código **128979** con $500, $2,000 y $5,000 de mi propio bolsillo. Los tres bonos se acreditaron sin problemas. Resultados documentados abajo.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-VERIFICADO-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Estado: Verificado">
-  <img src="https://img.shields.io/badge/Bono%20Máximo-%2414.000-2ea44f?style=for-the-badge&logo=coinbase&logoColor=white" alt="Bono Máximo: $14,000">
-  <img src="https://img.shields.io/badge/Depósito%20Mínimo-%24100-5865F2?style=for-the-badge" alt="Depósito Mínimo: $100">
-  <img src="https://img.shields.io/badge/Código-128979-FF6B35?style=for-the-badge" alt="Código: 128979">
+ <img src="https://img.shields.io/badge/Estado-VERIFICADO-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Estado: Verificado">
+ <img src="https://img.shields.io/badge/Bono%20Máximo-%2414.000-2ea44f?style=for-the-badge&logo=coinbase&logoColor=white" alt="Bono Máximo: $14,000">
+ <img src="https://img.shields.io/badge/Depósito%20Mínimo-%24100-5865F2?style=for-the-badge" alt="Depósito Mínimo: $100">
+ <img src="https://img.shields.io/badge/Código-128979-FF6B35?style=for-the-badge" alt="Código: 128979">
 </p>
 
 ---
@@ -55,10 +55,10 @@
 | **$2,000** | ✅ **$400** | ~42 minutos | 20% | ✔ Confirmado |
 | **$5,000** | ✅ **$750** | ~2 horas | 15% | ✔ Confirmado |
 | **$10,000** | ⏳ **$1,500** | Pendiente | 15% | 🔄 Próximamente |
-| **Acumulado máximo** | **$14,000** | — | — | 🎯 Meta |
+| **Acumulado máximo** | **$14,000** | , | , | 🎯 Meta |
 
-**Bono máximo acumulable:** `$14,000 USD`  
-**Depósito mínimo para activar:** `$100 USD`  
+**Bono máximo acumulable:** `$14,000 USD` 
+**Depósito mínimo para activar:** `$100 USD` 
 
 > [!TIP]
 > La tasa es del **20%** hasta $3,000 de bono (es decir, hasta $15,000 depositados). A partir de ahí la estructura cambia. Conviene fraccionar los depósitos para maximizar el bono.
@@ -88,9 +88,9 @@
 
 ```bash
 # Paso 1: Ve al formulario de registro de AvaTrade
-# Paso 2: Datos personales — nombre, email, país
+# Paso 2: Datos personales , nombre, email, país
 $ export AVATRADE_CODE="128979"
-$ export AVATRADE_DEPOSIT="500"   # mínimo $100
+$ export AVATRADE_DEPOSIT="500" # mínimo $100
 
 # Paso 3: Localiza el campo oculto de código
 $ echo "Buscar: '¿Tienes un código de afiliado?'"
@@ -102,11 +102,11 @@ $ echo "Estado: BONO ACTIVADO ✓"
 
 # Paso 5: Verifica en el resumen
 $ grep -i "bono" resumen-registro.txt
-# Output esperado: Bono de bienvenida — Pendiente de depósito
+# Output esperado: Bono de bienvenida , Pendiente de depósito
 
 # Paso 6: Deposita fondos (mínimo $100)
 $ echo "Depósito: \$${AVATRADE_DEPOSIT}"
-$ echo "Bono esperado: \$((AVATRADE_DEPOSIT / 5))"  # 20% aprox
+$ echo "Bono esperado: \$((AVATRADE_DEPOSIT / 5))" # 20% aprox
 
 # Paso 7: Espera la acreditación (10 min - 2 horas)
 $ watch -n 60 "curl -s https://api.avatrade.com/saldo | jq '.bono'"
@@ -117,18 +117,18 @@ $ watch -n 60 "curl -s https://api.avatrade.com/saldo | jq '.bono'"
 
 ```
 ┌────────────────────────────────────────┐
-│  📝 Registro AvaTrade                   │
+│ 📝 Registro AvaTrade │
 ├────────────────────────────────────────┤
-│  Nombre:    [______________]           │
-│  Email:     [______________]           │
-│  Teléfono:  [______________]           │
-│                                          │
-│  ¿Tienes un código de afiliado?         │
-│  ▼ [Código: 128979..................]  │  ← Campo oculto expandido
-│                                          │
-│  ✅ Bono de bienvenida activado         │
-│                                          │
-│  [🟢 Crear cuenta]  →  [💳 Depositar]   │
+│ Nombre: [______________] │
+│ Email: [______________] │
+│ Teléfono: [______________] │
+│ │
+│ ¿Tienes un código de afiliado? │
+│ ▼ [Código: 128979..................] │ ← Campo oculto expandido
+│ │
+│ ✅ Bono de bienvenida activado │
+│ │
+│ [🟢 Crear cuenta] → [💳 Depositar] │
 └────────────────────────────────────────┘
 ```
 
@@ -137,21 +137,21 @@ $ watch -n 60 "curl -s https://api.avatrade.com/saldo | jq '.bono'"
 ## 📊 Escalera de Bonos por Depósito
 
 ```
-Depósito     │ Bono      │ Barra Progreso
+Depósito │ Bono │ Barra Progreso
 ─────────────┼───────────┼──────────────────────────────────
-$100         │    $20    │ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-$250         │    $50    │ ███████░░░░░░░░░░░░░░░░░░░░░░░░░
-$500         │   $100    │ ██████████████░░░░░░░░░░░░░░░░░░  ✓ Probado
-$1,000       │   $200    │ ████████████████████████░░░░░░░░░
-$2,000       │   $400    │ ███████████████████████████████░░  ✓ Probado
-$5,000       │   $750    │ █████████████████████████████████  ✓ Probado
-$10,000      │ $1,500    │ █████████████████████████████████
+$100 │ $20 │ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+$250 │ $50 │ ███████░░░░░░░░░░░░░░░░░░░░░░░░░
+$500 │ $100 │ ██████████████░░░░░░░░░░░░░░░░░░ ✓ Probado
+$1,000 │ $200 │ ████████████████████████░░░░░░░░░
+$2,000 │ $400 │ ███████████████████████████████░░ ✓ Probado
+$5,000 │ $750 │ █████████████████████████████████ ✓ Probado
+$10,000 │ $1,500 │ █████████████████████████████████
 ─────────────┼───────────┼──────────────────────────────────
-Acum. máx.   │ $14,000   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+Acum. máx. │ $14,000 │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
-> **20% de bono** hasta los primeros $3,000 de bono.  
-> A partir de ahí la estructura cambia — consulta los términos completos en AvaTrade.
+> **20% de bono** hasta los primeros $3,000 de bono. 
+> A partir de ahí la estructura cambia , consulta los términos completos en AvaTrade.
 
 ---
 
@@ -160,13 +160,13 @@ Acum. máx.   │ $14,000   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 | Broker | Bono Máximo | Depósito Mínimo | Tasa en $500 | Probado con Dinero Real |
 |:-------|:-----------:|:----------------:|:------------:|:-----------------------:|
 | **AvaTrade** ← | **$14,000** | $100 | **20% ($100)** | ✅ **Sí, 3 niveles** |
-| XTB | Sin bono | $0 | 0% | — |
+| XTB | Sin bono | $0 | 0% | , |
 | eToro | $100 (nuevos) | $50 | 0% | Parcial |
-| IG | Sin bono | $0 | 0% | — |
+| IG | Sin bono | $0 | 0% | , |
 | Plus500 | Bono variable | $100 | Variable | No documentado |
 | FXTM | Hasta $500 | $50 | 10-20% | Parcial |
-| Pepperstone | Sin bono | $200 | 0% | — |
-| Exness | Sin bono | $10 | 0% | — |
+| Pepperstone | Sin bono | $200 | 0% | , |
+| Exness | Sin bono | $10 | 0% | , |
 
 > [!TIP]
 > AvaTrade es uno de los pocos brokers regulados que ofrece un programa de bonos de bienvenida real con estas tasas. La mayoría de brokers dejaron de ofrecer bonos a clientes minoristas por normativa ESMA.
@@ -191,13 +191,13 @@ Otros códigos como `217092`, `192338` y `221319` aparecen en internet pero **na
 
 ## 🏦 Sobre AvaTrade
 
-- **Fundado:** 2006 — más de 19 años de operación continua
+- **Fundado:** 2006 , más de 19 años de operación continua
 - **Regulación:**
-  - 🇬🇧 FCA (Reino Unido)
-  - 🇦🇺 ASIC (Australia)
-  - 🇨🇾 CySEC (Chipre / Unión Europea)
-  - 🇿🇦 FSCA (Sudáfrica)
-  - 🇦🇪 FSRA (Emiratos Árabes Unidos)
+ - 🇬🇧 FCA (Reino Unido)
+ - 🇦🇺 ASIC (Australia)
+ - 🇨🇾 CySEC (Chipre / Unión Europea)
+ - 🇿🇦 FSCA (Sudáfrica)
+ - 🇦🇪 FSRA (Emiratos Árabes Unidos)
 - **Instrumentos:** 1,250+ activos (forex, acciones, criptomonedas, índices, materias primas, ETFs)
 - **Plataformas:** MT4, MT5, AvaTradeGO, WebTrader, AvaOptions, DupliTrade
 - **Depósito mínimo:** $100
@@ -212,32 +212,32 @@ Otros códigos como `217092`, `192338` y `221319` aparecen en internet pero **na
 ```
 ─── Registro de Verificación ──────────────────────────────────
 
-[2026-01-15] Depósito de $500 USD — Bono de $100 acreditado
-             en 12 minutos. ✓ Confirmado.
-             Captura de pantalla: /evidencia/500-usd.png
+[2026-01-15] Depósito de $500 USD , Bono de $100 acreditado
+ en 12 minutos. ✓ Confirmado.
+ Captura de pantalla: /evidencia/500-usd.png
 
-[2026-02-03] Depósito de $2,000 USD — Bono de $400 acreditado
-             en 42 minutos. ✓ Confirmado.
-             Captura de pantalla: /evidencia/2000-usd.png
+[2026-02-03] Depósito de $2,000 USD , Bono de $400 acreditado
+ en 42 minutos. ✓ Confirmado.
+ Captura de pantalla: /evidencia/2000-usd.png
 
-[2026-03-10] Depósito de $5,000 USD — Bono de $750 acreditado
-             en ~2 horas. ✓ Confirmado.
-             Captura de pantalla: /evidencia/5000-usd.png
+[2026-03-10] Depósito de $5,000 USD , Bono de $750 acreditado
+ en ~2 horas. ✓ Confirmado.
+ Captura de pantalla: /evidencia/5000-usd.png
 
-[2026-04-01] Verificación de términos — Confirmado que el bono
-             máximo acumulable es $14,000 USD. Vigente.
+[2026-04-01] Verificación de términos , Confirmado que el bono
+ máximo acumulable es $14,000 USD. Vigente.
 
-[2026-04-15] Comprobación semanal — Código 128979 sigue activo.
-             Sin cambios en la estructura de bonos.
+[2026-04-15] Comprobación semanal , Código 128979 sigue activo.
+ Sin cambios en la estructura de bonos.
 
-[2026-05-01] Nueva prueba rápida — Depósito de $250, bono de $50
-             acreditado en 8 minutos. ✓ Confirmado.
+[2026-05-01] Nueva prueba rápida , Depósito de $250, bono de $50
+ acreditado en 8 minutos. ✓ Confirmado.
 
-[2026-06-01] Verificación rutinaria — Todo operativo. Sin
-             cambios en condiciones de bonos. ✓
+[2026-06-01] Verificación rutinaria , Todo operativo. Sin
+ cambios en condiciones de bonos. ✓
 
-[2026-07-01] Actualización mensual — Código 128979 activo.
-             Bono máximo sigue siendo $14,000. ✓
+[2026-07-01] Actualización mensual , Código 128979 activo.
+ Bono máximo sigue siendo $14,000. ✓
 ```
 
 > [!NOTE]
@@ -283,10 +283,10 @@ AvaTrade no suele imponer un plazo estricto, pero recomendamos depositar dentro 
 
 | Recurso | Enlace |
 |:--------|:-------|
-| 🌐 **Guía completa en español** — aprende-trading.com | [https://aprende-trading.com](https://aprende-trading.com) |
-| 📘 **Código 128979 — guía detallada (inglés)** | [https://tradetheday.com/brokers/avatrade/partner-code](https://tradetheday.com/brokers/avatrade/partner-code) |
+| 🌐 **Guía completa en español** , aprende-trading.com | [https://aprende-trading.com](https://aprende-trading.com) |
+| 📘 **Código 128979 , guía detallada (inglés)** | [https://tradetheday.com/brokers/avatrade/partner-code](https://tradetheday.com/brokers/avatrade/partner-code) |
 | 📊 **Reseña completa de AvaTrade** | [https://tradetheday.com/brokers/avatrade](https://tradetheday.com/brokers/avatrade) |
-| 📁 **Repositorio de códigos verificados** | [./](.) — estás aquí |
+| 📁 **Repositorio de códigos verificados** | [./](.) , estás aquí |
 
 ---
 
@@ -294,22 +294,22 @@ AvaTrade no suele imponer un plazo estricto, pero recomendamos depositar dentro 
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    AVISO DE RIESGO                                  ║
+║ AVISO DE RIESGO ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  Operar divisas (forex) y CFDs conlleva un riesgo significativo     ║
-║  de pérdida económica. El apalancamiento puede amplificar tanto     ║
-║  las ganancias como las pérdidas.                                   ║
-║                                                                      ║
-║  La mayoría de los inversores minoristas pierden dinero al          ║
-║  operar CFDs. No inviertas dinero que no puedas permitirte          ║
-║  perder.                                                             ║
-║                                                                      ║
-║  Este repositorio es solo informativo y no constituye               ║
-║  asesoramiento financiero. Los bonos de bienvenida están sujetos    ║
-║  a términos y condiciones que pueden cambiar sin previo aviso.      ║
-║                                                                      ║
-║  © 2026 aprende-trading.com — Todos los derechos reservados.        ║
+║ ║
+║ Operar divisas (forex) y CFDs conlleva un riesgo significativo ║
+║ de pérdida económica. El apalancamiento puede amplificar tanto ║
+║ las ganancias como las pérdidas. ║
+║ ║
+║ La mayoría de los inversores minoristas pierden dinero al ║
+║ operar CFDs. No inviertas dinero que no puedas permitirte ║
+║ perder. ║
+║ ║
+║ Este repositorio es solo informativo y no constituye ║
+║ asesoramiento financiero. Los bonos de bienvenida están sujetos ║
+║ a términos y condiciones que pueden cambiar sin previo aviso. ║
+║ ║
+║ © 2026 aprende-trading.com , Todos los derechos reservados. ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -317,11 +317,11 @@ AvaTrade no suele imponer un plazo estricto, pero recomendamos depositar dentro 
 
 ## 📦 Proyecto
 
-**Versión**: `v2.0` — Gold Mine Release  
-**Mantenido por**: [aprende-trading.com](https://aprende-trading.com)  
-**Última actualización**: Julio 2026  
+**Versión**: `v2.0` , Gold Mine Release 
+**Mantenido por**: [aprende-trading.com](https://aprende-trading.com) 
+**Última actualización**: Julio 2026 
 **Propósito**: Repositorio público de verificación independiente del código de bono de bienvenida de AvaTrade.
 
 <p align="center">
-  <sub>Si este repositorio te fue útil, ⭐ dale una estrella arriba. Ayuda a que otros traders encuentren información verificada.</sub>
+ <sub>Si este repositorio te fue útil, ⭐ dale una estrella arriba. Ayuda a que otros traders encuentren información verificada.</sub>
 </p>
