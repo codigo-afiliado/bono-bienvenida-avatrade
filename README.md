@@ -293,24 +293,24 @@ AvaTrade no suele imponer un plazo estricto, pero recomendamos depositar dentro 
 ## ⚠️ Aviso de Riesgo
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║ AVISO DE RIESGO ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ ║
-║ Operar divisas (forex) y CFDs conlleva un riesgo significativo ║
-║ de pérdida económica. El apalancamiento puede amplificar tanto ║
-║ las ganancias como las pérdidas. ║
-║ ║
-║ La mayoría de los inversores minoristas pierden dinero al ║
-║ operar CFDs. No inviertas dinero que no puedas permitirte ║
-║ perder. ║
-║ ║
-║ Este repositorio es solo informativo y no constituye ║
-║ asesoramiento financiero. Los bonos de bienvenida están sujetos ║
-║ a términos y condiciones que pueden cambiar sin previo aviso. ║
-║ ║
-║ © 2026 aprende-trading.com , Todos los derechos reservados. ║
-╚══════════════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════════╗
+ ║                           AVISO DE RIESGO                            ║
+ ╠══════════════════════════════════════════════════════════════════════╣
+ ║                                                                      ║
+ ║  Operar divisas (forex) y CFDs conlleva un riesgo significativo      ║
+ ║  de pérdida económica. El apalancamiento puede amplificar tanto      ║
+ ║  las ganancias como las pérdidas.                                    ║
+ ║                                                                      ║
+ ║  La mayoría de los inversores minoristas pierden dinero al           ║
+ ║  operar CFDs. No inviertas dinero que no puedas permitirte           ║
+ ║  perder.                                                             ║
+ ║                                                                      ║
+ ║  Este repositorio es solo informativo y no constituye                ║
+ ║  asesoramiento financiero. Los bonos de bienvenida están sujetos     ║
+ ║  a términos y condiciones que pueden cambiar sin previo aviso.       ║
+ ║                                                                      ║
+ ║  © 2026 aprende-trading.com , Todos los derechos reservados.         ║
+ ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
