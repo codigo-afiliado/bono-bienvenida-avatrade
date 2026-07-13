@@ -126,7 +126,7 @@ $ watch -n 60 "curl -s https://api.avatrade.com/saldo | jq '.bono'"
 │ ¿Tienes un código de afiliado? │
 │ ▼ [Código: 128979..................] │ ← Campo oculto expandido
 │ │
-│ ✅ Bono de bienvenida activado │
+│ Bono de bienvenida activado │
 │ │
 │ [🟢 Crear cuenta] → [💳 Depositar] │
 └────────────────────────────────────────┘
